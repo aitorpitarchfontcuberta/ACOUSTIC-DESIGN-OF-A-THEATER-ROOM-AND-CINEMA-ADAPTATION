@@ -55,6 +55,7 @@ Contributions are welcome. If you propose changes:
 ## Author / Contact
 
 Project author: aitorpitarchfontcuberta  and Bernat García
+
 GitHub: [https://github.com/aitorpitarchfontcuberta](https://github.com/aitorpitarchfontcuberta)
 
 For questions about the project, simulation details, or to request raw data/scripts, open an issue in this repository or contact the author via their GitHub profile.
