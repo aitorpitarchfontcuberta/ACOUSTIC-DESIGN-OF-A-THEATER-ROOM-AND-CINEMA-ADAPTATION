@@ -52,13 +52,13 @@ Contributions are welcome. If you propose changes:
 - Include a brief description of the test/reproduction steps for any modifications.
 
 
-## Author / Contact
+## Authors / Contact
 
-Project author: aitorpitarchfontcuberta  and Bernat García
+Project authors: aitorpitarchfontcuberta  and Bernat García
 
 GitHub: [https://github.com/aitorpitarchfontcuberta](https://github.com/aitorpitarchfontcuberta)
 
-For questions about the project, simulation details, or to request raw data/scripts, open an issue in this repository or contact the author via their GitHub profile.
+For questions about the project, simulation details, or to request raw data/scripts, open an issue in this repository or contact the authors via their GitHub profile.
 
 ## Acknowledgements
 
