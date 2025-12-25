@@ -7,7 +7,7 @@ The full project report (PDF) included in the repository documents the problem s
 ## Contents
 
 - ease project/  
-  - [Theatre].(Ease Project/Theatre)
+  - [Theatre](Ease Project/Theatre)
   - files/ — ancillary files used by the EASE projects (measurement files, impulse responses, exported results, images, etc.)
 - Project report pdf " — full written report describing objectives, methods, simulations and conclusions
 
