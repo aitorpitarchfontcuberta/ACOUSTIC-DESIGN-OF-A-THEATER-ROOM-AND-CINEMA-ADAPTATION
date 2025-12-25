@@ -34,31 +34,6 @@ For full methodological details, parameter values, graphs and discussion, see th
 
 If the repository includes exported impulse responses or measurement data, those files can be used in audio analysis software (e.g., MATLAB, Python with scipy/numpy, Room EQ Wizard) to reproduce derived metrics and plots.
 
-## Repository structure (example)
-
-- ease project/
-  - ease projects/          — EASE project files
-  - files/                  — exported results, measurement files, images
-- Project_Report.pdf        — final report with methods, results and conclusions
-- README.md                 — this file
-
-(Actual filenames and structure may vary; use `ls`/your file browser to inspect the exact filenames.)
-
-## Reproducing results
-
-To reproduce simulations and figures you will typically need:
-- EASE (same or compatible version used to build the projects),
-- The project files in `ease project/ease projects/`,
-- Any exported measurement or configuration files in `ease project/files/`.
-
-Recommended steps:
-1. Open the EASE project(s).
-2. Verify material and source settings match those documented in the Project_Report.pdf.
-3. Run the same simulation scenarios (seating layouts, loudspeaker/sound source configurations).
-4. Export objective acoustical metrics and compare with values reported in the PDF.
-
-If you need scripts to parse exported data (CSV/TXT) into plots or compute acoustic metrics, consider using Python (numpy/scipy/matplotlib) or MATLAB. These scripts are not included by default unless present in the `files/` folder.
-
 ## Key findings (summary)
 
 A short, high-level summary of conclusions is provided here for convenience. For complete discussion and numeric results, refer to the Project_Report.pdf.
@@ -76,13 +51,10 @@ Contributions are welcome. If you propose changes:
 - Provide updated EASE project files and, where applicable, exported result files and scripts.
 - Include a brief description of the test/reproduction steps for any modifications.
 
-## License
-
-No license file is included in this repository. If you wish to reuse or redistribute materials, please contact the repository owner or add an explicit LICENSE file to clarify terms.
 
 ## Author / Contact
 
-Project author: aitorpitarchfontcuberta  
+Project author: aitorpitarchfontcuberta  and Bernat García
 GitHub: [https://github.com/aitorpitarchfontcuberta](https://github.com/aitorpitarchfontcuberta)
 
 For questions about the project, simulation details, or to request raw data/scripts, open an issue in this repository or contact the author via their GitHub profile.
