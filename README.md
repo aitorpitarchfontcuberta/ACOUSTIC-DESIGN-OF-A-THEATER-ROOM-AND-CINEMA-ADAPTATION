@@ -63,4 +63,4 @@ For questions about the project, simulation details, or to request raw data/scri
 
 ## Acknowledgements
 
-This work uses EASE for acoustic modelling. See the Project_Report.pdf for references, standards used, and acknowledgements.
+This work uses EASE for acoustic modelling. See the [Project report pdf](<DESIGN OF A THEATER ROOM AND CINEMA ADAPTATION.pdf>) for references, standards used, and acknowledgements.
