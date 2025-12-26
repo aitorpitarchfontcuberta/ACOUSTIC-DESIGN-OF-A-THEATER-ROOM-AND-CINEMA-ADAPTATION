@@ -54,9 +54,9 @@ Contributions are welcome. If you propose changes:
 
 ## Authors / Contact
 
-Project authors: aitorpitarchfontcuberta  and Bernat García
+Project authors: Aitor Pitarch  and Bernat García
 
-GitHub: [https://github.com/aitorpitarchfontcuberta](https://github.com/aitorpitarchfontcuberta)
+Aitor Pitarch: [GitHub](https://github.com/aitorpitarchfontcuberta)    [Linkedin](www.linkedin.com/in/aitor-pitarch-fontcuberta-a9970a367)
 
 For questions about the project, simulation details, or to request raw data/scripts, open an issue in this repository or contact the authors via their GitHub profile.
 
