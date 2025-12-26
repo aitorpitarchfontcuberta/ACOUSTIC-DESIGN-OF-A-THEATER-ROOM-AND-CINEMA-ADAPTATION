@@ -56,7 +56,7 @@ Contributions are welcome. If you propose changes:
 
 Project authors: Aitor Pitarch  and Bernat García
 
-Aitor Pitarch: [GitHub](https://github.com/aitorpitarchfontcuberta)    [Linkedin](www.linkedin.com/in/aitor-pitarch-fontcuberta-a9970a367)
+Aitor Pitarch: [GitHub](https://github.com/aitorpitarchfontcuberta)    [Linkedin](https://linkedin.com/in/aitor-pitarch-fontcuberta-a9970a367)
 
 For questions about the project, simulation details, or to request raw data/scripts, open an issue in this repository or contact the authors via their GitHub profile.
 
