@@ -1,5 +1,5 @@
-# Acoustic Design of a Theater Room and Cinema Adaptation. By Bernat Garcia Bahi and Aitor Pitarch Fontcuberta
-
+# Acoustic Design of a Theater Room and Cinema Adaptation.
+# By Bernat Garcia Bahi and Aitor Pitarch Fontcuberta.
 This repository contains the project files and documentation for the acoustic design, modelling, simulations, and evaluation carried out during the design of a theatre room and its adaptation to a cinema configuration.
 
 The full project report (PDF) included in the repository documents the problem statement, modelling process, design decisions, simulation setup, results, and acoustic evaluations. Consult that document for detailed background, assumptions, parameter values, and complete results.
